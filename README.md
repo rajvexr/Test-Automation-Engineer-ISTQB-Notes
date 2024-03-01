@@ -7,18 +7,18 @@ Test automation is expected to help run many test cases consistency and repeated
 
 ### Test automation involves a process of designing the testware, including:
 
--> Software
--> Documentation
--> Test Cases
--> Test Enviroments 
--> Test Data
+- Software
+- Documentation
+- Test Cases
+- Test Enviroments 
+- Test Data
 
 
 ### Testware is necessary for the testing activities that include:
 
--> Implementing automated test cases 
--> Monitoring and controlling the execution of automated tests
--> Interpreting, reporting and logging the automated test results
+- Implementing automated test cases 
+- Monitoring and controlling the execution of automated tests
+- Interpreting, reporting and logging the automated test results
 
 
 ### Test automation has different approaches for interacting with a SUT (System Under Test):
